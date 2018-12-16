@@ -1,15 +1,22 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [
+  "products": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "id": 1,
+      "name": "I am Groot",
+      "description": "This stuffed Groot makes an excellent toy for both youngsters due to it's soft nature and adorable design, to fans and collectors of 'The Guardians of the Galaxy' franchise.",
+      "keywords": ["stuffed", "plush", "groot", "guardians of the galaxy"],
+      "image": "1-groot.jpg",
+      "age": ["0", "+"],
+      "price": 19.99
+    },
+    {
+      "id": 2,
+      "name": "I am Bella",
+      "description": "This stuffed Groot makes an excellent toy for both youngsters due to it's soft nature and adorable design, to fans and collectors of 'The Guardians of the Galaxy' franchise.",
+      "keywords": ["stuffed", "plush", "groot", "guardians of the galaxy"],
+      "image": "1-groot.jpg",
+      "age": ["0", "+"],
+      "price": 19.99
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  ]
 }
